@@ -1,0 +1,13 @@
+.card{
+    text-align: center;
+    color: white;
+ border-color: black;
+ margin: 20px;
+ 
+}
+.card-header{
+    background-color: black;
+}
+body{
+    background-color: rgb(71, 74, 71);
+}
